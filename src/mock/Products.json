@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "shoes",
+      "price": 108,
+      "imgUrl": "https://api.lorem.space/image/shoes?w=640&h=480&r=3730"
+    },
+    {
+      "id": 2,
+      "title": "jewelery",
+      "price": 799,
+      "imgUrl": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 450,
+      "imgUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Sagittarius-111",
+      "price": 350,
+      "imgUrl": "https://api.lorem.space/image/furniture?w=640&h=480&r=5305"
+    },
+    {
+      "id": 5,
+      "title": "CHUWI HeroBook Pro 14.1 inch",
+      "price": 269,
+      "imgUrl": "https://m.media-amazon.com/images/I/71jDooDQHpL._AC_UY218_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Lenovo Ideapad L340",
+      "price": 868,
+      "imgUrl": "https://api.lorem.space/image/fashion?w=640&h=480&r=4278"
+    },
+    {
+      "id": 7,
+      "title": "Awesome Metal Shoes",
+      "price": 487,
+      "imgUrl": "https://api.lorem.space/image/shoes?w=640&h=480&r=6461"
+    },
+    {
+      "id": 8,
+      "title": "Luxurious Rubber Pizza",
+      "price": 187,
+      "imgUrl": "https://api.lorem.space/image/watch?w=640&h=480&r=3919"
+    },
+    {
+      "id": 9,
+      "title": "Sofa Set CWS-S-107, PriyoShop.com",
+      "price": 579,
+      "imgUrl": "https://api.lorem.space/image/furniture?w=640&h=480&r=1579"
+    },
+    {
+      "id": 10,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "imgUrl": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "imgUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "imgUrl": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+      }
+    
+  ]
